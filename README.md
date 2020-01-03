@@ -1,10 +1,10 @@
-# RainbomSea.github.io
+# HungFamily1998.github.io
 
 > 复制大佬过来的模板， 页面自己写是不可能的，一辈子都是不可能的了。
 
 ## 网站地址
 
-[RainbomSea.xyz](http://rainbomsea.xyz/)
+[HungFamily1998.github.io](http://HungFamily1998.github.io/)
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
